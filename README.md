@@ -1,9 +1,9 @@
 # Sandstorm 切换沙尘暴
-- 作者: 羽学
+- 作者: onusai 羽学
 - 出处: [tshock-onus-utility](https://github.com/onusai/tshock-onus-utility)
 - 使用指令切换沙尘暴开启停止，可在配置文件定义'风速值'
 
-
+ 
 ## 指令
 
 | 语法                             | 别名  |       权限       |                   说明                   |
